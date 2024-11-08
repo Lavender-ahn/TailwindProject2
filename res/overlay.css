@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Jacquard+24&family=Poetsen+One&family=Rowdies:wght@300;400;700&family=Signika:wght@300..700&display=swap');
+
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.abel-regular {
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.signika 
+{
+  font-family: "Signika", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
+.rowdies-light {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.rowdies-regular {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rowdies-bold {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.container-fluid {
+  position: relative;
+  font-family: Arial;
+}
+
+.mySlides 
+{
+    display:none;
+}
+
+.text-block {
+  position: absolute;
+  top: 20px;
+  left: 80px;
+  background-color: black;
+  color: white;
+  width:20%;
+  padding-left: 0px;
+  padding-right: 0px;
+  max-width: 1500px; 
+  height: 400px;
+  opacity:70%;
+}
+
+
+.text-block2 h4 {
+    background: #000;
+    opacity:80%;
+}
+
